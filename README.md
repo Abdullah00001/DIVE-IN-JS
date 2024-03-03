@@ -26,8 +26,3 @@ To embark on this cosmic journey, simply navigate to your terminal and execute t
 
 ```bash
 git clone https://github.com/Abdullah00001/AURORA-JS.git
-📢 Echoes from the Galaxy
-
-I'm receptive to echoes and cosmic whispers! If you encounter any anomalies in my code or have insights for improvement, please feel free to broadcast your signals by opening a cosmic issue or transmitting a pull request.
-
-Happy cosmic coding! 🚀✨
