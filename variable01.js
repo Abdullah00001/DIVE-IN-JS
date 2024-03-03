@@ -10,3 +10,5 @@ console.log(usersID)
 usersEmail="bin782gmail.com"
 console.log(usersEmail)
 console.table([usersID,usersEmail])
+let usersAge
+console.log(usersAge)
