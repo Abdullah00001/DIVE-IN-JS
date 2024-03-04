@@ -1,1 +1,1 @@
-console.log(arr2[0])
+let objct3=Object.assign({},objct1,objct2)
