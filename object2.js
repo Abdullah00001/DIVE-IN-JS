@@ -40,6 +40,12 @@ let users = [
     { userName: "Bin90", userPassWord: "AllahuAkbar" }
 ]
 /* console.log(users[0].userName," ",users[0].userPassWord) */
-for (let a of users) {
+/* for (let a of users) {
     console.log(a.userName, " ", a.userPassWord)
+} */
+let courses = {
+    courseName: "JavaScript",
+    courseInstructor: "Abdullah",
+    coursePrice: "30$"
 }
+// courses.courseInstructor
