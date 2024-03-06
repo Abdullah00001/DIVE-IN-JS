@@ -1,1 +1,0 @@
-let objct3=Object.assign({},objct1,objct2)
