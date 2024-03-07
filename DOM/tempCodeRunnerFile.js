@@ -1,0 +1,1 @@
+document.getElementById('firstHead').style.backgroundColor='#2ecc71'

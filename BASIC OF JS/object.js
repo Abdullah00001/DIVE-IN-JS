@@ -17,4 +17,4 @@ console.log(usersDetails[strngObj].userspassword) */
 usersDetails.hello=function(){
     console.log("Hello World")
 }
-console.log(usersDetails.hello())
+// console.log(usersDetails.hello())
